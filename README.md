@@ -1,4 +1,6 @@
 CssTruncateExample
 ==================
 
-An example of CSS truncate
+An example of CSS truncate.
+
+WTF license.
